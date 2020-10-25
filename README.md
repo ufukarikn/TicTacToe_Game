@@ -1,8 +1,13 @@
-# tictactoe_game
+# Tic Tac Toe Game
 
 A new Flutter application.
 
-## Getting Started
+## Screen
+![1](https://user-images.githubusercontent.com/65519308/97118991-6374f880-171e-11eb-96b3-1feba4b7ffb9.png)
+![3](https://user-images.githubusercontent.com/65519308/97118993-666fe900-171e-11eb-8f7a-c199d7ca4cc4.png)
+![2](https://user-images.githubusercontent.com/65519308/97118995-696ad980-171e-11eb-9538-9047af503e88.png)
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
